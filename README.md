@@ -35,19 +35,18 @@
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
+### Output:
+<img width="1053" height="676" alt="Screenshot 2026-03-24 205526" src="https://github.com/user-attachments/assets/8bb9b187-1194-4471-a04a-fa155fa7bd58" />
+<img width="1045" height="360" alt="Screenshot 2026-03-24 205535" src="https://github.com/user-attachments/assets/5b404b56-2ce7-4399-9d7a-ddf6b88dba13" />
+<img width="1045" height="636" alt="Screenshot 2026-03-24 205546" src="https://github.com/user-attachments/assets/367255df-025f-4cfb-980d-3a0b03417ca5" />
+<img width="1041" height="554" alt="Screenshot 2026-03-24 205554" src="https://github.com/user-attachments/assets/99495372-7c3d-44fa-a21c-7c7bd1b5795e" />
+<img width="1042" height="595" alt="Screenshot 2026-03-24 205602" src="https://github.com/user-attachments/assets/dd54324a-09e4-41fa-8bd7-970c3334af7c" />
+<img width="1042" height="692" alt="Screenshot 2026-03-24 205611" src="https://github.com/user-attachments/assets/714d982a-1eb3-4ef5-be9a-9b3de3e2d5bc" />
+<img width="1056" height="416" alt="Screenshot 2026-03-24 205618" src="https://github.com/user-attachments/assets/6c3b1dfa-3e1e-4d51-aae8-934c584d08c1" />
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
-
-## Output
-
-
-### Name:
-### Register Number: 
+### Name: Jenoviya F
+### Register Number: 212225040151
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
